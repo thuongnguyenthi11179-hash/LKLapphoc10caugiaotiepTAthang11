@@ -1,0 +1,6 @@
+{
+  "name": "10 Câu Tiếng Anh Lớp Học Tháng 11 - TH Lê Kim Lăng",
+  "description": "Ứng dụng học 10 câu Tiếng Anh giao tiếp trong lớp học tháng 11 dành cho giáo viên và học sinh Trường Tiểu học Lê Kim Lăng, phát âm chuẩn bản ngữ và trò chơi tương tác.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
